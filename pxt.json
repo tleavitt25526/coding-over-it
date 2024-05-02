@@ -2,12 +2,15 @@
     "name": "Coding Over it",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "darts": "*"
     },
     "files": [
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
